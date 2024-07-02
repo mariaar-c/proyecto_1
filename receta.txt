@@ -4,3 +4,4 @@ Tortilla de patata
     - batir huevos
 
 Paso 1: freir las patata
+Paso 2: freir la cebolla
